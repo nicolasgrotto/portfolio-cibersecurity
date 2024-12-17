@@ -1,5 +1,10 @@
 # Auditoria de Segurança
 
+## Arquivos
+
+- Control Categories e Botium Toys_Scope goals, and risk assessment report são arquivos com as informações utilizadas como base para realizar a auditoria.
+- Botium Toys_Scope Goals, and Risk Assessment Report Scope and Goals of the Audit é o arquivo que contém a auditoria finalizada.
+
 ## Essa atividade foi desenvolvida com base em uma empresa e cenário fictício.
 
 Botium Toys é uma pequena empresa dos EUA que desenvolve e vende brinquedos. Ela possui um único local físico, que funciona como escritório principal, vitrine e depósito para seus produtos. Com o crescimento de sua presença on-line, a empresa começou a atrair clientes nos EUA e no exterior, aumentando a pressão sobre seu departamento de tecnologia da informação (TI) para dar suporte ao mercado global.
