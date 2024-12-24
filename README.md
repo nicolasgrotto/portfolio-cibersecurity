@@ -1,4 +1,4 @@
-# portfolio-seguranca-da-informacao
+# Portfólio Segurança da Informação
 
 Este repositório possui uma coleção de atividades realizadas durante meu estudo da área.
 
