@@ -1,5 +1,10 @@
 # Análisar a comunicação na camada de rede
 
+## Arquivos
+
+- tcpdump analysis é a foto dos pacotes de dados capturados.
+- cibersecurity incident report é a análise do incidente com base nos pacotes de dados capturados.
+
 ## Essa atividade foi desenvolvida com uma história fictícia 
 
 Você é um analista de segurança cibernética que trabalha em uma empresa especializada em fornecer serviços de TI para clientes. Vários clientes relataram que não conseguiram acessar o site da empresa e viram o erro "porta de destino inalcançável" depois de esperar que a página fosse carregada.
