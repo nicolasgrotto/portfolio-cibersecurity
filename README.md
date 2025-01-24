@@ -10,7 +10,7 @@ O objetivo deste portfólio é demonstrar minhas habilidades técnicas e conheci
 
 - README.md: Apresentação geral
 
-- atividades/: Contém pastas organizadas por temas de segurança.
+- atividades/: Contém pastas organizadas por temas de segurança. Obs: as atividades foram feitas em inglês
 
 ## Como Navegar
 
